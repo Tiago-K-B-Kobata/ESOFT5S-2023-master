@@ -1,0 +1,524 @@
+[
+  {
+    "name": "bulbasaur",
+    "type": [
+      {
+        "name": "grass"
+      },
+      {
+        "name": "poison"
+      }
+    ],
+    "stats": [
+      {
+        "name": "hp",
+        "base_stat": 45
+      },
+      {
+        "name": "attack",
+        "base_stat": 49
+      },
+      {
+        "name": "defense",
+        "base_stat": 49
+      },
+      {
+        "name": "special-attack",
+        "base_stat": 65
+      },
+      {
+        "name": "special-defense",
+        "base_stat": 65
+      },
+      {
+        "name": "speed",
+        "base_stat": 45
+      }
+    ],
+    "dex": 1,
+    "height": 7,
+    "weight": 69,
+    "moves": [
+      {
+        "name": "outrage"
+      },
+      {
+        "name": "work-up"
+      },
+      {
+        "name": "skull-bash"
+      },
+      {
+        "name": "synthesis"
+      }
+    ]
+  },
+  {
+    "name": "ivysaur",
+    "type": [
+      {
+        "name": "grass"
+      },
+      {
+        "name": "poison"
+      }
+    ],
+    "stats": [
+      {
+        "name": "hp",
+        "base_stat": 60
+      },
+      {
+        "name": "attack",
+        "base_stat": 62
+      },
+      {
+        "name": "defense",
+        "base_stat": 63
+      },
+      {
+        "name": "special-attack",
+        "base_stat": 80
+      },
+      {
+        "name": "special-defense",
+        "base_stat": 80
+      },
+      {
+        "name": "speed",
+        "base_stat": 60
+      }
+    ],
+    "dex": 2,
+    "height": 10,
+    "weight": 130,
+    "moves": [
+      {
+        "name": "return"
+      },
+      {
+        "name": "take-down"
+      },
+      {
+        "name": "echoed-voice"
+      },
+      {
+        "name": "giga-drain"
+      }
+    ]
+  },
+  {
+    "name": "venusaur",
+    "type": [
+      {
+        "name": "grass"
+      },
+      {
+        "name": "poison"
+      }
+    ],
+    "stats": [
+      {
+        "name": "hp",
+        "base_stat": 80
+      },
+      {
+        "name": "attack",
+        "base_stat": 82
+      },
+      {
+        "name": "defense",
+        "base_stat": 83
+      },
+      {
+        "name": "special-attack",
+        "base_stat": 100
+      },
+      {
+        "name": "special-defense",
+        "base_stat": 100
+      },
+      {
+        "name": "speed",
+        "base_stat": 80
+      }
+    ],
+    "dex": 3,
+    "height": 20,
+    "weight": 1000,
+    "moves": [
+      {
+        "name": "safeguard"
+      },
+      {
+        "name": "facade"
+      },
+      {
+        "name": "leech-seed"
+      },
+      {
+        "name": "substitute"
+      }
+    ]
+  },
+  {
+    "name": "charmander",
+    "type": [
+      {
+        "name": "fire"
+      }
+    ],
+    "stats": [
+      {
+        "name": "hp",
+        "base_stat": 39
+      },
+      {
+        "name": "attack",
+        "base_stat": 52
+      },
+      {
+        "name": "defense",
+        "base_stat": 43
+      },
+      {
+        "name": "special-attack",
+        "base_stat": 60
+      },
+      {
+        "name": "special-defense",
+        "base_stat": 50
+      },
+      {
+        "name": "speed",
+        "base_stat": 65
+      }
+    ],
+    "dex": 4,
+    "height": 6,
+    "weight": 85,
+    "moves": [
+      {
+        "name": "metal-claw"
+      },
+      {
+        "name": "rock-tomb"
+      },
+      {
+        "name": "thunder-punch"
+      },
+      {
+        "name": "substitute"
+      }
+    ]
+  },
+  {
+    "name": "charmeleon",
+    "type": [
+      {
+        "name": "fire"
+      }
+    ],
+    "stats": [
+      {
+        "name": "hp",
+        "base_stat": 58
+      },
+      {
+        "name": "attack",
+        "base_stat": 64
+      },
+      {
+        "name": "defense",
+        "base_stat": 58
+      },
+      {
+        "name": "special-attack",
+        "base_stat": 80
+      },
+      {
+        "name": "special-defense",
+        "base_stat": 65
+      },
+      {
+        "name": "speed",
+        "base_stat": 80
+      }
+    ],
+    "dex": 5,
+    "height": 11,
+    "weight": 190,
+    "moves": [
+      {
+        "name": "ember"
+      },
+      {
+        "name": "dynamic-punch"
+      },
+      {
+        "name": "incinerate"
+      },
+      {
+        "name": "helping-hand"
+      }
+    ]
+  },
+  {
+    "name": "charizard",
+    "type": [
+      {
+        "name": "fire"
+      },
+      {
+        "name": "flying"
+      }
+    ],
+    "stats": [
+      {
+        "name": "hp",
+        "base_stat": 78
+      },
+      {
+        "name": "attack",
+        "base_stat": 84
+      },
+      {
+        "name": "defense",
+        "base_stat": 78
+      },
+      {
+        "name": "special-attack",
+        "base_stat": 109
+      },
+      {
+        "name": "special-defense",
+        "base_stat": 85
+      },
+      {
+        "name": "speed",
+        "base_stat": 100
+      }
+    ],
+    "dex": 6,
+    "height": 17,
+    "weight": 905,
+    "moves": [
+      {
+        "name": "fire-blast"
+      },
+      {
+        "name": "scale-shot"
+      },
+      {
+        "name": "curse"
+      },
+      {
+        "name": "dynamic-punch"
+      }
+    ]
+  },
+  {
+    "name": "squirtle",
+    "type": [
+      {
+        "name": "water"
+      }
+    ],
+    "stats": [
+      {
+        "name": "hp",
+        "base_stat": 44
+      },
+      {
+        "name": "attack",
+        "base_stat": 48
+      },
+      {
+        "name": "defense",
+        "base_stat": 65
+      },
+      {
+        "name": "special-attack",
+        "base_stat": 50
+      },
+      {
+        "name": "special-defense",
+        "base_stat": 64
+      },
+      {
+        "name": "speed",
+        "base_stat": 43
+      }
+    ],
+    "dex": 7,
+    "height": 5,
+    "weight": 90,
+    "moves": [
+      {
+        "name": "return"
+      },
+      {
+        "name": "round"
+      },
+      {
+        "name": "mimic"
+      },
+      {
+        "name": "focus-punch"
+      }
+    ]
+  },
+  {
+    "name": "wartortle",
+    "type": [
+      {
+        "name": "water"
+      }
+    ],
+    "stats": [
+      {
+        "name": "hp",
+        "base_stat": 59
+      },
+      {
+        "name": "attack",
+        "base_stat": 63
+      },
+      {
+        "name": "defense",
+        "base_stat": 80
+      },
+      {
+        "name": "special-attack",
+        "base_stat": 65
+      },
+      {
+        "name": "special-defense",
+        "base_stat": 80
+      },
+      {
+        "name": "speed",
+        "base_stat": 58
+      }
+    ],
+    "dex": 8,
+    "height": 10,
+    "weight": 225,
+    "moves": [
+      {
+        "name": "muddy-water"
+      },
+      {
+        "name": "facade"
+      },
+      {
+        "name": "brine"
+      },
+      {
+        "name": "rage"
+      }
+    ]
+  },
+  {
+    "name": "blastoise",
+    "type": [
+      {
+        "name": "water"
+      }
+    ],
+    "stats": [
+      {
+        "name": "hp",
+        "base_stat": 79
+      },
+      {
+        "name": "attack",
+        "base_stat": 83
+      },
+      {
+        "name": "defense",
+        "base_stat": 100
+      },
+      {
+        "name": "special-attack",
+        "base_stat": 85
+      },
+      {
+        "name": "special-defense",
+        "base_stat": 105
+      },
+      {
+        "name": "speed",
+        "base_stat": 78
+      }
+    ],
+    "dex": 9,
+    "height": 16,
+    "weight": 855,
+    "moves": [
+      {
+        "name": "toxic"
+      },
+      {
+        "name": "scald"
+      },
+      {
+        "name": "signal-beam"
+      },
+      {
+        "name": "dragon-pulse"
+      }
+    ]
+  },
+  {
+    "name": "caterpie",
+    "type": [
+      {
+        "name": "bug"
+      }
+    ],
+    "stats": [
+      {
+        "name": "hp",
+        "base_stat": 45
+      },
+      {
+        "name": "attack",
+        "base_stat": 30
+      },
+      {
+        "name": "defense",
+        "base_stat": 35
+      },
+      {
+        "name": "special-attack",
+        "base_stat": 20
+      },
+      {
+        "name": "special-defense",
+        "base_stat": 20
+      },
+      {
+        "name": "speed",
+        "base_stat": 45
+      }
+    ],
+    "dex": 10,
+    "height": 3,
+    "weight": 29,
+    "moves": [
+      {
+        "name": "tackle"
+      },
+      {
+        "name": "electroweb"
+      },
+      {
+        "name": "bug-bite"
+      },
+      {
+        "name": "electroweb"
+      }
+    ]
+  }
+]
